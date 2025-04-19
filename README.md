@@ -1,6 +1,12 @@
 # URLSHORT
 
-**This project is for sale. It is not free or open source. Please contact the owner for purchase inquiries.**
+© 2024 HDEVON. All rights reserved. Unauthorized copying, distribution, or cloning is prohibited.
+
+**Notice: This project is proprietary and not available for public download. Please contact the owner for purchase or access.**
+**Violations will be subject to DMCA takedown actions.**
+
+**Monitoring:**  
+This project contains unique identifiers for tracking and monitoring unauthorized distribution or leaks.
 
 A PHP-based URL shortener application that allows users to create short links, track clicks, and earn money from each click. The system also includes a referral program where users can earn commission from referrals.
 

@@ -10,6 +10,9 @@ $page = isset($_GET['page']) ? $_GET['page'] : 'home';
 // Header
 include 'includes/header.php';
 
+// Watermark: Project ID - URLSHORT-2024-HDEVON
+define('PROJECT_WATERMARK', 'URLSHORT-2024-HDEVON');
+
 // Content
 switch ($page) {
     case 'home':
