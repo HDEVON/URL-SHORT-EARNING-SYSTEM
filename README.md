@@ -1,9 +1,6 @@
-<<<<<<< HEAD
-<<<<<<< HEAD
-# URL-Shortener-with-Earnings-System
-A PHP-based URL shortener application that allows users to create short links, track clicks, and earn money from each click. The system also includes a referral program where users can earn commission from referrals.
-=======
-# URL Shortener with Earnings System
+# URLSHORT
+
+**This project is for sale. It is not free or open source. Please contact the owner for purchase inquiries.**
 
 A PHP-based URL shortener application that allows users to create short links, track clicks, and earn money from each click. The system also includes a referral program where users can earn commission from referrals.
 
@@ -55,8 +52,3 @@ Edit the `config/config.php` file to set up your application:
 ## License
 
 This project is licensed under the MIT License - see the LICENSE file for details.
->>>>>>> 79f9856 (Initial commit)
-=======
-# URL-Shortener-with-Earnings-System
-A PHP-based URL shortener application that allows users to create short links, track clicks, and earn money from each click. The system also includes a referral program where users can earn commission from referrals.
->>>>>>> 49481577251c8e65414b791aa0b133c8bd1ede16
